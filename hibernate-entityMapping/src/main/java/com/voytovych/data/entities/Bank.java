@@ -1,4 +1,4 @@
-package com.infiniteskills.data.entities;
+package com.voytovych.data.entities;
 
 import java.util.Date;
 
