@@ -25,6 +25,7 @@ public class Application {
 		
 		session.save(user);
 		
+		session.getTransaction().commit();
 		session.close();
 	}
 }
