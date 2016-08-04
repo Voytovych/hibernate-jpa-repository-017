@@ -1,10 +1,10 @@
-package com.infiniteskills.data;
+package com.voytovych.data;
 
 import java.util.Date;
 
 import org.hibernate.Session;
 
-import com.infiniteskills.data.entities.User;
+import com.voytovych.data.entities.User;
 
 public class Application {
 

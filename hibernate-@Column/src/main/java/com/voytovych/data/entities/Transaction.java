@@ -1,4 +1,4 @@
-package com.infiniteskills.data.entities;
+package com.voytovych.data.entities;
 
 import java.math.BigDecimal;
 import java.util.Date;

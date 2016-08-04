@@ -1,4 +1,4 @@
-package com.infiniteskills.data;
+package com.voytovych.data;
 
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
